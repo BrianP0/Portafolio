@@ -4,6 +4,11 @@
 	font-family: sans-serif;
 	color: #eee;
 }
+
+a:hover{
+    color: #444;    
+}
+
 #bar-nav{
 	width: 100vw;
 	height: 60px;
