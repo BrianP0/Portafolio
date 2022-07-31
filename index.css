@@ -1,4 +1,15 @@
-*{
-	background: blueviolet;
+.lorem {
+	color: #FFF;
+	position: absolute;
+	font-size: 2EM;
 
+}
+
+#hero {
+	height: 100vh;
+	width: 100vw;
+	background-image: url(media/lenguaje-programacion.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: red;
 }
